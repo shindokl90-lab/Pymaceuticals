@@ -1,7 +1,7 @@
 # Pymaceuticals Obversations: 
-1.
-2.
-3.
+1. Capomulin and Ramicane are more effective in reducing tumor volume than Infubinol or Ceftamin. 
+2. Tumor Volume is positively correlated with mouse weight; the heavier the mouse, the larger the tumor. 
+3. An almost equal number of males and females participated in the study. 
 
 # Matplotlib Homework - The Power of Plots
 
