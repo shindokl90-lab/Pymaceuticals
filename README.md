@@ -1,4 +1,8 @@
-# Pymaceuticals
+# Pymaceuticals Obversations: 
+1.
+2.
+3.
+
 # Matplotlib Homework - The Power of Plots
 
 ## Background
